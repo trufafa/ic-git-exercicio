@@ -1,3 +1,0 @@
--> Aprendi a criar um repositório local.
--> Aprendi a criar um repositório no GitHub.
--> Aprendi a coligar um repositório local a um repositório do GitHub.
