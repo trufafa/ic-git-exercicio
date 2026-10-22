@@ -1,3 +1,9 @@
-# Project Title
+# Título do projeto.
 
-This is the description for the project.
+Esta é a descrição do projeto.
+
+## Funcionalidades
+
+Aqui, descrevem-se as funcionalidades do projeto. 
+Estas funcionalidades são variadas e explicadas aprofundadamente.
+
