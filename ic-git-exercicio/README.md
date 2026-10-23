@@ -1,4 +1,4 @@
-# Título do projeto.
+# Projeto de Introdução à Computação - Versão B
 
 Esta é a descrição do projeto.
 
