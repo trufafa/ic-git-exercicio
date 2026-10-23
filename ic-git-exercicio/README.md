@@ -1,4 +1,4 @@
-# Projeto de Introdução à Computação - Versão B
+# Projeto de Introdução à Computação
 
 Esta é a descrição do projeto.
 
